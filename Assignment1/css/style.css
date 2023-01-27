@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color:snow;
+    background-image: url(/media/backgornd.png);
+}
+.container-fluid{
+    background-color:snow;
+}
+.Personal{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 50px;
+    color:silver;
+}
+.Education{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 50px;
+    color:silver;
+}
+.Projects{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 50px;
+    color:silver;
+}
+.Contact{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 50px;
+    color:silver;
+}
